@@ -1,0 +1,33 @@
+{
+  "user_name": "parkash",
+  "user_contact": "8285",
+  "user_depart": "developement",
+  "user_gender": "male",
+  "useradress": {
+    "city": "Delhi ",
+    "street": "5",
+    "zipcode": 110406
+  },
+  "Subempolyee": [
+    {
+      "name": "pankaj",
+      "reportmanger": true,
+      "role": "support"
+    },
+    {
+      "name": "suresh",
+      "reportmanger": false,
+      "role": "testing"
+    },
+    {
+      "name": "ramesh",
+      "reportmanger": false,
+      "role": "testing"
+    },
+    {
+      "name": "kamal",
+      "reportmanger": true,
+      "role": "support"
+    }
+  ]
+}
